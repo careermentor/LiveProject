@@ -5,6 +5,8 @@ public class QA1
 
 	int  i = 100;
 	
+	
+	
 	public void sum(int a, int b)   ///method declaration
 	{
 		int c = a+b;									//method body
